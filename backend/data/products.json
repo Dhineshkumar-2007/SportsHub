@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "category": "Cricket",
+    "name": "English Willow Bat",
+    "price": 6999,
+    "image": "Sports_Hub_Product_Images/cricket/english-willow-bat.png",
+    "badge": "Featured",
+    "stock": 98
+  },
+  {
+    "id": 2,
+    "category": "Cricket",
+    "name": "Cricket Batting Gloves",
+    "price": 1499,
+    "image": "Sports_Hub_Product_Images/cricket/cricket-batting-gloves.png",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "category": "Cricket",
+    "name": "Leather Cricket Ball",
+    "price": 799,
+    "image": "Sports_Hub_Product_Images/cricket/leather-cricket-ball.png",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "category": "Cricket",
+    "name": "Cricket Helmet",
+    "price": 2499,
+    "image": "Sports_Hub_Product_Images/cricket/cricket-helmet.png",
+    "badge": "Popular",
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "category": "Cricket",
+    "name": "Cricket Kit Bag",
+    "price": 2199,
+    "image": "Sports_Hub_Product_Images/cricket/cricket-kit-bag.png",
+    "stock": 99
+  },
+  {
+    "id": 6,
+    "category": "Football",
+    "name": "Training Football",
+    "price": 999,
+    "image": "Sports_Hub_Product_Images/football/training-football.png",
+    "badge": "Popular",
+    "stock": 100
+  },
+  {
+    "id": 7,
+    "category": "Football",
+    "name": "Football Boots",
+    "price": 3299,
+    "image": "Sports_Hub_Product_Images/football/football-boots.png",
+    "stock": 99
+  },
+  {
+    "id": 8,
+    "category": "Football",
+    "name": "Goalkeeper Gloves",
+    "price": 1799,
+    "image": "Sports_Hub_Product_Images/football/goalkeeper-gloves.png",
+    "stock": 100
+  },
+  {
+    "id": 9,
+    "category": "Football",
+    "name": "Football Jersey",
+    "price": 1599,
+    "image": "Sports_Hub_Product_Images/football/football-jersey.png",
+    "stock": 100
+  },
+  {
+    "id": 10,
+    "category": "Football",
+    "name": "Shin Guards",
+    "price": 699,
+    "image": "Sports_Hub_Product_Images/football/shin-guards.png",
+    "stock": 100
+  },
+  {
+    "id": 11,
+    "category": "Boxing",
+    "name": "Boxing Gloves",
+    "price": 1999,
+    "image": "Sports_Hub_Product_Images/boxing/boxing-gloves.png",
+    "badge": "Best Seller",
+    "stock": 100
+  },
+  {
+    "id": 12,
+    "category": "Boxing",
+    "name": "Hand Wraps",
+    "price": 499,
+    "image": "Sports_Hub_Product_Images/boxing/hand-wraps.png",
+    "stock": 100
+  },
+  {
+    "id": 13,
+    "category": "Boxing",
+    "name": "Focus Mitts",
+    "price": 1799,
+    "image": "Sports_Hub_Product_Images/boxing/focus-mitts.png",
+    "stock": 100
+  },
+  {
+    "id": 14,
+    "category": "Boxing",
+    "name": "Boxing Head Guard",
+    "price": 1499,
+    "image": "Sports_Hub_Product_Images/boxing/boxing-head-guard.png",
+    "stock": 100
+  },
+  {
+    "id": 15,
+    "category": "Boxing",
+    "name": "Skipping Rope",
+    "price": 599,
+    "image": "Sports_Hub_Product_Images/boxing/skipping-rope.png",
+    "stock": 100
+  },
+  {
+    "id": 16,
+    "category": "Badminton",
+    "name": "Badminton Racket",
+    "price": 2499,
+    "image": "Sports_Hub_Product_Images/badminton/badminton-racket.png",
+    "badge": "Featured",
+    "stock": 100
+  },
+  {
+    "id": 17,
+    "category": "Badminton",
+    "name": "Feather Shuttlecock",
+    "price": 899,
+    "image": "Sports_Hub_Product_Images/badminton/feather-shuttlecock.png",
+    "stock": 100
+  },
+  {
+    "id": 18,
+    "category": "Badminton",
+    "name": "Badminton Shoes",
+    "price": 2799,
+    "image": "Sports_Hub_Product_Images/badminton/badminton-shoes.png",
+    "stock": 100
+  },
+  {
+    "id": 19,
+    "category": "Badminton",
+    "name": "Racket Bag",
+    "price": 1399,
+    "image": "Sports_Hub_Product_Images/badminton/racket-bag.png",
+    "stock": 100
+  },
+  {
+    "id": 20,
+    "category": "Badminton",
+    "name": "Racket Grip",
+    "price": 299,
+    "image": "Sports_Hub_Product_Images/badminton/racket-grip.png",
+    "stock": 100
+  },
+  {
+    "id": 21,
+    "category": "Fitness",
+    "name": "Adjustable Dumbbell",
+    "price": 3499,
+    "image": "Sports_Hub_Product_Images/fitness/adjustable-dumbbell.png",
+    "badge": "Popular",
+    "stock": 100
+  },
+  {
+    "id": 22,
+    "category": "Fitness",
+    "name": "Resistance Bands",
+    "price": 899,
+    "image": "Sports_Hub_Product_Images/fitness/resistance-bands.png",
+    "stock": 100
+  },
+  {
+    "id": 23,
+    "category": "Fitness",
+    "name": "Yoga Mat",
+    "price": 999,
+    "image": "Sports_Hub_Product_Images/fitness/yoga-mat.png",
+    "stock": 100
+  },
+  {
+    "id": 24,
+    "category": "Fitness",
+    "name": "Kettlebell",
+    "price": 1699,
+    "image": "Sports_Hub_Product_Images/fitness/kettlebell.png",
+    "stock": 100
+  },
+  {
+    "id": 25,
+    "category": "Fitness",
+    "name": "Push-Up Bars",
+    "price": 799,
+    "image": "Sports_Hub_Product_Images/fitness/push-up-bars.png",
+    "stock": 100
+  }
+]

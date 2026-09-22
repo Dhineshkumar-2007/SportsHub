@@ -1,0 +1,8 @@
+{
+  "name": "sports-hub-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sports Hub full-stack mini project - dependency-free Node.js backend",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node --watch server.js"}
+}

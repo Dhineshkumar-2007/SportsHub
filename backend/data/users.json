@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Sports Hub Admin",
+    "email": "admin@sportshub.local",
+    "passwordHash": "89a83988ada49698d18daab69a756377:df6cda6360b47d563e9ef39a1b4e0700fd84015c72649fd6dcc0162bcecf7b7169b182f44920a555f71a022b241e065652a2ac0d55be9253f61d92ab4bdb6375",
+    "role": "admin",
+    "createdAt": "2026-09-19T09:45:12.659Z"
+  },
+  {
+    "id": 1789811516368,
+    "name": "dk",
+    "email": "dk@gmail.com",
+    "passwordHash": "3f41a84c5acfb70a4e7db61e9206152e:da0368f38a84704fd1b9a9557da03fe0e6862b187e5011b6dd3e34ff8f666711bf38d21f8f21f9eabae488757184a84e8aa09b497486780281af6f1fa9baeab2",
+    "role": "customer",
+    "createdAt": "2026-09-19T09:51:55.831Z"
+  },
+  {
+    "id": 1789970602160,
+    "name": "dk",
+    "email": "hr@gmail.com",
+    "passwordHash": "84838560f322670a963f7f6644ba8273:3d8d836df78da62477ec6e801804a600af2cf4c7a3849161b0fdcabe3609e7773affd2c5c44a4dc540ae815c2a4564e4dfd712e5fb52bdaeb011fd436f0ef38c",
+    "role": "customer",
+    "createdAt": "2026-09-21T06:03:22.012Z"
+  },
+  {
+    "id": 1789982344518,
+    "name": "Apple Tester",
+    "email": "apple.test.1538916069@example.com",
+    "passwordHash": "6f70fa476dceceb62b0a71f074bac10b:62c6ea9db91335e5745f4f3163abaabdb3a56b41c39e136450fce1f799bb092cfa83860e1b90e924bd3bf78f05a604e6cfe6302629a6501b3f17816cbcfaf834",
+    "role": "customer",
+    "createdAt": "2026-09-21T09:19:04.002Z"
+  }
+]
